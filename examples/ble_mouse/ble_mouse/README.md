@@ -24,6 +24,16 @@ Emulator Setup:
   - Connect the voltage input pin of the joystick to the positive rail
   - Connect GND on the joystick to the negative rail 
 
+<img src="/PJE_Img/Powerchair_Joystick_Emulator_Full_View.jpg" width = 500 height = 500/>
+
+<img src="/PJE_Img/Nano_Top_View.jpg" width = 500 height = 500/>
+
+<img src="PJE_Img/Nano_Side_View.jpg" width = 500 height = 500/>
+
+<img src="PJE_Img/Joystick_Front_View.jpg" width = 500 height = 500/>
+
+<img src="PJE_Img/Joystick_Back_View.jpg" width = 500 height = 500/>
+
 To add on the custom joystick knob to the emulator design, download the attached stl, open it with 3D printing software, and edit the print settings as needed. 
 If the joystick knob is to be used with a different analog joystick than the HiLetgo Game Joystick, the extruded cut on the bottom surface of the part will need to be edited to fit the joystick of your choice.
 In this case, open the attached STEP file using your preferred CAD software, or the attached SLDPRT using SolidWorks, and edit the extruded cut to fit your joystick.
