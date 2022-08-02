@@ -18,7 +18,7 @@ Emulator Setup:
   - Insert the male headers of the Arduino device into the solderless breadboard
   - Connect the red/positive rail of the Arduino to Voltage (3.3V) and the blue/negative rail to GND
   - Setup the NO switch and Analog Joystick where you want to place them on the board 
-  - Connect the NO switch to Digital Pin 2 (D2), voltage (positive rail), and GND (negative rail) 
+  - Connect the NO switch to Digital Pin 2 (D2), voltage (positive rail), and GND (negative rail) via 220 Ohm resistor 
   - Connect the x-axis of the joystick (VRx) to Analog Pin 6 (A6) 
   - Connect the y-axis of the joystick (VRy) to Analog Pin 7 (A7)
   - Connect the voltage input pin of the joystick to the positive rail
