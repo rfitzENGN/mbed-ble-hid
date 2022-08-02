@@ -24,9 +24,9 @@ Emulator Setup:
   - Connect the voltage input pin of the joystick to the positive rail
   - Connect GND on the joystick to the negative rail 
 
-<img src="/PJE_Img/Powerchair_Joystick_Emulator_Full_View.jpg" width = 500 height = 500/>
+<img src="PJE_Img/Powerchair_Joystick_Emulator_Full_View.jpg" width = 500 height = 500/>
 
-<img src="/PJE_Img/Nano_Top_View.jpg" width = 500 height = 500/>
+<img src="PJE_Img/Nano_Top_View.jpg" width = 500 height = 500/>
 
 <img src="PJE_Img/Nano_Side_View.jpg" width = 500 height = 500/>
 
